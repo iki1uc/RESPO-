@@ -19,7 +19,7 @@ nav a { color:#6cf; display:block; margin:6px 0; }
 
 <script>
 async function loadRespo() {
-    const r = await fetch("RAUM-SCAN.respo");
+    const r = await fetch("SCAN.respo");   // FIXED
     return r.ok ? await r.text() : "FEHLT";
 }
 
