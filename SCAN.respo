@@ -1,0 +1,76 @@
+# RAUM‑SCAN · 360° · FULL‑MYSTERY · RESPO
+
+STATE      = ACTIVE
+MODE       = RAUM‑SCAN
+VERSION    = 1.0 FULL
+
+# 1. RAUM‑360° Stimmung
+STIMMUNG-0 = klar
+STIMMUNG-1 = tief
+STIMMUNG-2 = weit
+STIMMUNG-3 = ultra
+STIMMUNG-4 = mystery
+STIMMUNG-5 = 360°
+
+# 2. RAUM‑Achsen
+AXIS-X = horizont
+AXIS-Y = breite
+AXIS-Z = tiefe
+AXIS-U = ultra
+AXIS-V = wert
+AXIS-W = mystery
+
+# 3. RAUM‑Operatoren
+OP-h1   = startpunkt
+OP-e3   = erkennung
+OP-o6   = ordnung
+OP-o9   = orientierung
+OP-b12  = balance
+OP-w128 = weitsicht
+OP-win∞ = unendlich
+
+# 4. RAUM‑Mystery‑Layer
+MYSTERY-ROOT   = xarg
+MYSTERY-GHOST  = ghosterror
+MYSTERY-SINN   = 7sinn
+MYSTERY-BEAT   = beat∞
+MYSTERY-REV    = rev1.0
+MYSTERY-WIN    = win∞
+
+# 5. RAUM‑Fusion
+FUSION = win∞(rev1.0(beat∞(o9(o6(e3(h1(x)))))))
+
+# 6. RAUM‑Zero‑System
+ZERO-CORE  = zero-core
+ZERO-ULTRA = zero-ultra
+ZERO-ROOM  = ultra-zero
+
+# 7. RAUM‑Scan‑Pool
+SCAN-1 = 1.html
+SCAN-3 = 3.html
+SCAN-6 = 6.html
+SCAN-9 = 9.html
+SCAN-12 = 12.html
+
+# 8. RAUM‑Meta‑Pool
+META-H = METAh.room
+META-B = METAb.room
+META-T = METAt.room
+META-360 = META360.room
+META-2 = META2.html
+META-3 = META3.html
+
+# 9. RAUM‑RAW‑Pool
+RAW-ROOM  = ROOM.room
+RAW-HTML  = ROOM.raw.html
+RAW-NC3   = ME-NC3x3.room
+RAW-NC6   = ME-NC6eM6D.room
+RAW-NC9   = ME-NC9x9.room
+
+# 10. RAUM‑360°‑Status
+STATUS-POWER = 100%
+STATUS-VIEW  = 360°
+STATUS-MYST  = ACTIVE
+STATUS-ROOM  = READY
+STATUS-RAUM  = FULL
+STATUS-SCAN  = OK
